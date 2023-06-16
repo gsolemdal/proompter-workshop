@@ -46,6 +46,10 @@ class JukseProgram
 
 
     /*
+    Min prompt: 
+    I'm making a cipher dotnet console app. I need a static method that takes a string 
+    and integer as inputs and shifts the text by the amount indicated by the integer.
+
     Jeg prøvde å dektryptere out-encrypted-english.txt.
     Hvis du sammenligner in-english.txt og out-decrypted-english.txt 
     så ser du at den bommer på enkelte karakterer. 
